@@ -1,0 +1,7 @@
+.course-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 50px;
+}

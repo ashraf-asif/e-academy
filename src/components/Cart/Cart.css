@@ -1,0 +1,22 @@
+.cart {
+	width: 60vw;
+	box-shadow: 0 0 40px lightgrey;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	padding: 50px;
+}
+
+.course-in-cart {
+  display: flex;
+  align-items: center;
+	margin: 10px;
+	padding: 10px;
+	box-shadow: 0 0 20px lightgrey;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
